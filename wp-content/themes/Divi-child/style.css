@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Divi Child
+ Description:  Divi Child Theme
+ Author:       tatheer
+ Template:     Divi
+ Text Domain:  Divichild
+*/
+
+.wc-block-product-categories-list{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-color: blueviolet;
+}
